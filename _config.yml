@@ -1,0 +1,11 @@
+title: Coursemojo Engineering Blog
+description: How we build AI-powered tools for English Language Arts education.
+url: https://coursemojo.github.io
+baseurl: /blog
+permalink: /:year/:month/:title/
+
+# Build settings
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-seo-tag
